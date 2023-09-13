@@ -1,4 +1,4 @@
-# Kiko Now
+# Kiko Now (MJ modified)
 
 *Read this in other languages: [English](README.md), [한국어](README.ko.md).*
 
@@ -43,6 +43,7 @@ You can add additional posts in the browser on GitHub.com too! Just hit the + ic
 ---
 layout: post
 title: "post title"
+date:  202Y-MM-DD HH:MM:SS +0900
 tags: [tag1, tag2, tag3]
 comments: true
 ---
