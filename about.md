@@ -17,6 +17,18 @@ Investigating the principle of human intelligence and human-like AIs.
 Particularly interested in curiosity.  
 I majored Biology and Cognitive Science.  
 
+### Keyword
+
+- 솔직히 나는
+    - 호기심 가득한 그냥 사람
+- 관심사
+    - 사람. 관계, 마음, 지능
+    - 호기심, 불확실성
+    - 사랑, 삶, 죽음, 잘 살기, 잘 죽기
+- 희망사항
+    - 힙하게 나이들기, 스마트 에이징, 못해도 괜찮기
+    - informative but warm hearted writer
+
 ### Contact me
 
 [mjshin77@snu.ac.kr](mailto:mjshin77@snu.ac.kr)
