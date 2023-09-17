@@ -19,8 +19,6 @@ I majored Biology and Cognitive Science.
 
 ### Keyword
 
-- 솔직히 나는
-    - 호기심 가득한 그냥 사람
 - 관심사
     - 사람. 관계, 마음, 지능
     - 호기심, 불확실성
