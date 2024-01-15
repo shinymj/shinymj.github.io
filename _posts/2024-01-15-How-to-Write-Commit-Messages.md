@@ -4,7 +4,7 @@ published: true
 title: "How to write commit messages"
 excerpt: Git commit message 작성시 참고 사항
 date:  2024-01-15 10:34:00 +0900
-tags: [github, commit, memos]
+tags: [github, commit, memo]
 comments: true
 ---
 

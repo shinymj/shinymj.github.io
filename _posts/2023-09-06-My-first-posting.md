@@ -2,7 +2,7 @@
 layout: post
 title: "Test post"
 date:  2023-09-13 18:34:00 +0900
-tags: [샘플 포스트, 테스트]
+tags: [test]
 comments: true
 ---
 
