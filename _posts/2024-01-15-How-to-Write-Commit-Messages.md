@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Commit message 작성시 참고사항"
+title: "How to write commit messages"
 date:  2024-01-24 18:34:00 +0900
 tags: [github, commit, memos]
 comments: true
