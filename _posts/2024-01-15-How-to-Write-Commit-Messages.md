@@ -6,6 +6,7 @@ tags: [github, commit, memos]
 comments: true
 ---
 
+Git Commit message 작성시 참고 사항
 
 ### 일반적인 규칙
 
