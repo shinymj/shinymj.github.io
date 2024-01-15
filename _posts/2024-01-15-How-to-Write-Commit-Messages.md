@@ -1,12 +1,16 @@
 ---
 layout: post
+published: true
 title: "How to write commit messages"
+excerpt: Git commit message 작성시 참고 사항
 date:  2024-01-24 10:34:00 +0900
 tags: [github, commit, memos]
 comments: true
 ---
 
-Git Commit message 작성시 참고 사항
+Git Commit시 message 작성할 때마다 나름 열심히 뭔가를 적어서 올렸다. 
+그러나 한참 지난 다음에 커밋 히스토리를 찾아볼 때 딱히 유용한 정보가 되지 못하는 경우가 다반사. 
+이대로는 안되겠다 싶어 찾아보니, 역시나 일반적으로 적용되는 규칙이 있었다. 
 
 ### 일반적인 규칙
 
