@@ -5,7 +5,7 @@ permalink: /about/
 ---
 # Minjung Shin
 
-**Ph.D. Candidate | Research Assistant**
+**Ph.D. Candidate & Research Assistant**
 
 Interdisciplinary Program in Cognitive Science  
 Seoul National University  
@@ -14,7 +14,7 @@ Seoul, Korea 08826
 ---
 ## **Research Interest**
 
-Fine-grained AI evaluation | Human-like AI | Human-Robot Interaction | Curiosity | Cognitive Neuroscience | Human Factor Psychology
+Fine-grained AI evaluation,  Human-like AI, Human-Robot Interaction, Curiosity, Cognitive Neuroscience, Human Factor Psychology
 
 기계와 인공지능을 들여다보며 '인간다움'을 더 깊이 탐구합니다  
 Delving deeper into HUMANITY by looking into machine and artificial intelligence. 
@@ -80,35 +80,33 @@ Institute for Cognitive Science
 
 - Lee, Y. K., Lee, I., **Shin, M**., Bae, S., & Hahn, S. (2024). Enhancing Empathic Reasoning of Large Language Models Based on Psychotherapy Models for AI-assisted Social Support. *Korean Journal of Cognitive Science*, *35*(1).
     
-    [Link](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003065686) | Google Scholar | PDF
+    [Link](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003065686)
     
 - **Shin, M. J.**, Lee, K. M., & Ryu, J. K. (2020). A Review of Major Issues on Research for Online Video Game Use and Sociability. *Korean Journal of Cognitive Science,* 31(3), 55-76. [Korean]
     
-    [Link](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002633903) | [Google Scholar](https://scholar.google.com/scholar?hl=ko&as_sdt=0%2C5&q=%EC%98%A8%EB%9D%BC%EC%9D%B8+%EB%B9%84%EB%94%94%EC%98%A4+%EA%B2%8C%EC%9E%84+%EC%82%AC%EC%9A%A9%EA%B3%BC+%EC%82%AC%ED%9A%8C%EC%84%B1+%EC%97%B0%EA%B5%AC%EC%9D%98+%EC%A3%BC%EC%9A%94+%EC%9F%81%EC%A0%90%EC%97%90+%EA%B4%80%ED%95%9C+%EB%AC%B8%ED%97%8C%EA%B3%A0%EC%B0%B0&btnG=) | [PDF](https://www.koreascience.or.kr/article/JAKO202029565214035.pdf)
+    [Link](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002633903), [PDF](https://www.koreascience.or.kr/article/JAKO202029565214035.pdf)
     
 - Kim, D. E., **Shin, M. J.**, Lee, K. M., Chu, K., Woo, S. H., Kim, Y. R., ... & Roh, J. K. (2004). Musical training‐induced functional reorganization of the adult brain: Functional magnetic resonance imaging and transcranial magnetic stimulation study on amateur string players. *Human brain mapping*, *23*(4), 188-199.
     
-    [Link](https://onlinelibrary.wiley.com/doi/abs/10.1002/hbm.20058) | [Google Scholar](https://scholar.google.com/scholar?hl=ko&as_sdt=0%2C5&q=Musical+training%E2%80%90induced+functional+reorganization+of+the+adult+brain&btnG=)
+    [Link](https://onlinelibrary.wiley.com/doi/abs/10.1002/hbm.20058) 
     
-
 ### Proceedings
 
 - **Shin, M**., Kim, D., & Ryu, J. (2024). CAUS: A Dataset for Question Generation based on Human Cognition Leveraging Large Language Models. *Proceedings of the Annual Meeting of the Cognitive Science Society*, 46. Retrieved from https://escholarship.org/uc/item/6522j4p0
     
-    [LINK](https://escholarship.org/uc/item/8p3137gd) | Google Scholar | PDF
+    [LINK](https://escholarship.org/uc/item/8p3137gd)
     
 - **Shin, M.**, Choi, S., Heo, Y., Lee, M., Zhang, B., & Ryu, J. (2024). CogME: A Cognition-Inspired Multi-Dimensional Evaluation Metric for Story Understanding. *Proceedings of the Annual Meeting of the Cognitive Science Society*, 46. Retrieved from https://escholarship.org/uc/item/8p3137gd
     
-    [LINK](https://escholarship.org/uc/item/8p3137gd) | Google Scholar | PDF
+    [LINK](https://escholarship.org/uc/item/8p3137gd)
     
 - Lee YK., Park, Y., **Shin, M.**, & Hahn, S. (2023). Effect of Factual and Empathetic Feedback Styles in Robotic Fitness Coaching on Exercise Behavior Change. Late Breaking Report for presentation at the 32nd IEEE International Conference on Robot and Human Interactive Communication (RO-MAN 2023).
     
-    LINK | Google Scholar | PDF
+    LINK 
     
 - **Shin, M.**, Jang, M, Cho, M., and Ryu, J-K. (2023, March). Uncertainty-Resolving Questions for Social Robots. In *Companion of the 2023 ACM/IEEE International Conference on Human-Robot Interaction (HRI ’23 Companion),* https://doi.org/10.1145/3568294.3580077
     
-    [LINK](https://doi.org/10.1145/3568294.3580077) | Google Scholar | PDF
-    
+    [LINK](https://doi.org/10.1145/3568294.3580077)     
 
 ### Conferences
 
