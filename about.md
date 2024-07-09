@@ -111,6 +111,7 @@ Institute for Cognitive Science
 ### Conferences
 
 - **Shin, M.**, Jang, M, Cho, M., and Ryu, J-K. (2023. August) A Dataset Design for Question Generation Based on Human Cognition [Workshop Paper]. In *The 32nd IEEE International Conference on Robot and Human Interactive Communication (RO-MAN 2023).* Pusan, Korea.
+- Lee YK., Park, Y., **Shin, M.**, & Hahn, S. (2023). Effect of Factual and Empathetic Feedback Styles in Robotic Fitness Coaching on Exercise Behavior Change. Late Breaking Report for presentation at *the 32nd IEEE International Conference on Robot and Human Interactive Communication (RO-MAN 2023)*.
 - **Shin, M.**, Jang, M, Cho, M., and Ryu, J-K. (2023. June) A Design of a Dataset for Human-like Question Generation under Uncertainty for Interactive Robots [Work-in-Process Paper]. *2023 20th International Conference on Ubiquitous Robots (UR).* Honolulu, HI., USA.
 - **Shin, M.**, Jang, M, Cho, M., and Ryu, J-K. (2023. February) A Study on the Types of Inquiries for Generating Uncertainty-Resolving Questions [Poster]. *The 18th Korea Robotics Society Annual Conference (KRoC 2023),* Pyeongchang, Korea.
 - **Shin, M.**, Kim, J., Choi, S., Kim, D., Ryu, J. K., Zhang, B. T. (2021). A cognitive-based metric for multi-dimensional evaluation for video understanding AI. Talk in 2021 한국인지과학회 학술대회, Online.
@@ -121,6 +122,9 @@ Institute for Cognitive Science
 - Shin, M., Kim, D., & Ryu, J. K. (2024). CAUS: A Dataset for Question Generation based on Human Cognition Leveraging Large Language Models. *arXiv preprint arXiv:2404.11835*.
     
     [Link](https://arxiv.org/abs/2404.11835)
+
+- Lee, YK., Lee, I., **Shin, M.**, Bae, S., & Hahn, S. (2023). Chain of Empathy: Enhancing Empathetic Response of Large Language Models Based on Psychotherapy Models. *arXiv preprint arXiv:2311.04915.*    
+    [Link](https://arxiv.org/abs/2311.04915)
     
 - Heo, Y. J., **Lee, M.**, Choi, S., Choi, W. S., Shin, M., Jung, M., ... & Zhang, B. T. (2021). Toward a Human-Level Video Understanding Intelligence. *arXiv preprint arXiv:2110.04203*.
     
