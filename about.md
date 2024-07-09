@@ -115,11 +115,11 @@ Institute for Cognitive Science
 - **Shin, M.**, Jang, M, Cho, M., and Ryu, J-K. (2023. June) A Design of a Dataset for Human-like Question Generation under Uncertainty for Interactive Robots [Work-in-Process Paper]. *2023 20th International Conference on Ubiquitous Robots (UR).* Honolulu, HI., USA.
 - **Shin, M.**, Jang, M, Cho, M., and Ryu, J-K. (2023. February) A Study on the Types of Inquiries for Generating Uncertainty-Resolving Questions [Poster]. *The 18th Korea Robotics Society Annual Conference (KRoC 2023),* Pyeongchang, Korea.
 - **Shin, M.**, Kim, J., Choi, S., Kim, D., Ryu, J. K., Zhang, B. T. (2021). A cognitive-based metric for multi-dimensional evaluation for video understanding AI. Talk in 2021 한국인지과학회 학술대회, Online.
-- Heo, Y. J., Lee, M., Choi, S., Choi, W. S.,**Shin, M.**, Jung, M., ... & Zhang, B. T. (2021). Toward a Human-Level Video Understanding Intelligence. Presented In: AAAI Fall Symposium on Artificial Intelligence for Human-Robot Interaction.
+- Heo, Y. J., Lee, M., Choi, S., Choi, W. S., **Shin, M.**, Jung, M., ... & Zhang, B. T. (2021). Toward a Human-Level Video Understanding Intelligence. Presented In: AAAI Fall Symposium on Artificial Intelligence for Human-Robot Interaction.
 
 ### Preprint
 
-- Shin, M., Kim, D., & Ryu, J. K. (2024). CAUS: A Dataset for Question Generation based on Human Cognition Leveraging Large Language Models. *arXiv preprint arXiv:2404.11835*.
+- **Shin, M.**, Kim, D., & Ryu, J. K. (2024). CAUS: A Dataset for Question Generation based on Human Cognition Leveraging Large Language Models. *arXiv preprint arXiv:2404.11835*.
     
     [Link](https://arxiv.org/abs/2404.11835)
 
