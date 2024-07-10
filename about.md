@@ -94,7 +94,7 @@ Institute for Cognitive Science
 
 - **Shin, M**., Kim, D., & Ryu, J. (2024). CAUS: A Dataset for Question Generation based on Human Cognition Leveraging Large Language Models. *Proceedings of the Annual Meeting of the Cognitive Science Society*, 46. Retrieved from https://escholarship.org/uc/item/6522j4p0
     
-    [LINK](https://escholarship.org/uc/item/8p3137gd)
+    [LINK](https://escholarship.org/uc/item/6522j4p0)
     
 - **Shin, M.**, Choi, S., Heo, Y., Lee, M., Zhang, B., & Ryu, J. (2024). CogME: A Cognition-Inspired Multi-Dimensional Evaluation Metric for Story Understanding. *Proceedings of the Annual Meeting of the Cognitive Science Society*, 46. Retrieved from https://escholarship.org/uc/item/8p3137gd
     
