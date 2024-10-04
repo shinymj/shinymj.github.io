@@ -78,34 +78,27 @@ Institute for Cognitive Science
 
 ### Journals
 
-- Lee, Y. K., Lee, I., **Shin, M**., Bae, S., & Hahn, S. (2024). Enhancing Empathic Reasoning of Large Language Models Based on Psychotherapy Models for AI-assisted Social Support. *Korean Journal of Cognitive Science*, *35*(1).
-    
-    [Link](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003065686)
-    
-- **Shin, M. J.**, Lee, K. M., & Ryu, J. K. (2020). A Review of Major Issues on Research for Online Video Game Use and Sociability. *Korean Journal of Cognitive Science,* 31(3), 55-76. [Korean]
-    
-    [Link](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002633903), [PDF](https://www.koreascience.or.kr/article/JAKO202029565214035.pdf)
-    
-- Kim, D. E., **Shin, M. J.**, Lee, K. M., Chu, K., Woo, S. H., Kim, Y. R., ... & Roh, J. K. (2004). Musical training‐induced functional reorganization of the adult brain: Functional magnetic resonance imaging and transcranial magnetic stimulation study on amateur string players. *Human brain mapping*, *23*(4), 188-199.
-    
+- Lee, Y. K., Park, Y., **Shin, M.**, & Hahn, S. (2024). Effect of Feedback Styles in Robotic Fitness Coaching on Exercise Intensity. 한국 HCI 학회 논문지, 19(2), 35-45, 10.17210/jhsk.2024.06.19.2.35   
+    [Link](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003095946)   
+
+- Lee, Y. K., Lee, I., **Shin, M**., Bae, S., & Hahn, S. (2024). Enhancing Empathic Reasoning of Large Language Models Based on Psychotherapy Models for AI-assisted Social Support. *Korean Journal of Cognitive Science*, *35*(1).       
+    [Link](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003065686)     
+     
+- **Shin, M. J.**, Lee, K. M., & Ryu, J. K. (2020). A Review of Major Issues on Research for Online Video Game Use and Sociability. *Korean Journal of Cognitive Science,* 31(3), 55-76. [Korean]       
+    [Link](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002633903), [PDF](https://www.koreascience.or.kr/article/JAKO202029565214035.pdf)       
+
+- Kim, D. E., **Shin, M. J.**, Lee, K. M., Chu, K., Woo, S. H., Kim, Y. R., ... & Roh, J. K. (2004). Musical training‐induced functional reorganization of the adult brain: Functional magnetic resonance imaging and transcranial magnetic stimulation study on amateur string players. *Human brain mapping*, *23*(4), 188-199.       
     [Link](https://onlinelibrary.wiley.com/doi/abs/10.1002/hbm.20058) 
     
 ### Proceedings
 
-- **Shin, M**., Kim, D., & Ryu, J. (2024). CAUS: A Dataset for Question Generation based on Human Cognition Leveraging Large Language Models. *Proceedings of the Annual Meeting of the Cognitive Science Society*, 46. Retrieved from https://escholarship.org/uc/item/6522j4p0
-    
-    [LINK](https://escholarship.org/uc/item/6522j4p0)
-    
-- **Shin, M.**, Choi, S., Heo, Y., Lee, M., Zhang, B., & Ryu, J. (2024). CogME: A Cognition-Inspired Multi-Dimensional Evaluation Metric for Story Understanding. *Proceedings of the Annual Meeting of the Cognitive Science Society*, 46. Retrieved from https://escholarship.org/uc/item/8p3137gd
-    
-    [LINK](https://escholarship.org/uc/item/8p3137gd)
-    
-- Lee YK., Park, Y., **Shin, M.**, & Hahn, S. (2023). Effect of Factual and Empathetic Feedback Styles in Robotic Fitness Coaching on Exercise Behavior Change. Late Breaking Report for presentation at the 32nd IEEE International Conference on Robot and Human Interactive Communication (RO-MAN 2023).
-    
-    LINK 
-    
-- **Shin, M.**, Jang, M, Cho, M., and Ryu, J-K. (2023, March). Uncertainty-Resolving Questions for Social Robots. In *Companion of the 2023 ACM/IEEE International Conference on Human-Robot Interaction (HRI ’23 Companion),* https://doi.org/10.1145/3568294.3580077
-    
+- **Shin, M**., Kim, D., & Ryu, J. (2024). CAUS: A Dataset for Question Generation based on Human Cognition Leveraging Large Language Models. *Proceedings of the Annual Meeting of the Cognitive Science Society*, 46. Retrieved from https://escholarship.org/uc/item/6522j4p0       
+    [LINK](https://escholarship.org/uc/item/6522j4p0)       
+
+- **Shin, M.**, Choi, S., Heo, Y., Lee, M., Zhang, B., & Ryu, J. (2024). CogME: A Cognition-Inspired Multi-Dimensional Evaluation Metric for Story Understanding. *Proceedings of the Annual Meeting of the Cognitive Science Society*, 46. Retrieved from https://escholarship.org/uc/item/8p3137gd       
+    [LINK](https://escholarship.org/uc/item/8p3137gd)       
+
+- **Shin, M.**, Jang, M, Cho, M., and Ryu, J-K. (2023, March). Uncertainty-Resolving Questions for Social Robots. In *Companion of the 2023 ACM/IEEE International Conference on Human-Robot Interaction (HRI ’23 Companion),* https://doi.org/10.1145/3568294.3580077     
     [LINK](https://doi.org/10.1145/3568294.3580077)     
 
 ### Conferences
@@ -119,26 +112,22 @@ Institute for Cognitive Science
 
 ### Preprint
 
-- **Shin, M.**, Kim, D., & Ryu, J. K. (2024). CAUS: A Dataset for Question Generation based on Human Cognition Leveraging Large Language Models. *arXiv preprint arXiv:2404.11835*.
-    
+- **Shin, M.**, Kim, D., & Ryu, J. K. (2024). CAUS: A Dataset for Question Generation based on Human Cognition Leveraging Large Language Models. *arXiv preprint arXiv:2404.11835*.       
     [Link](https://arxiv.org/abs/2404.11835)
 
 - Lee, YK., Lee, I., **Shin, M.**, Bae, S., & Hahn, S. (2023). Chain of Empathy: Enhancing Empathetic Response of Large Language Models Based on Psychotherapy Models. *arXiv preprint arXiv:2311.04915.*    
     [Link](https://arxiv.org/abs/2311.04915)
     
-- Heo, Y. J., **Lee, M.**, Choi, S., Choi, W. S., Shin, M., Jung, M., ... & Zhang, B. T. (2021). Toward a Human-Level Video Understanding Intelligence. *arXiv preprint arXiv:2110.04203*.
-    
+- Heo, Y. J., **Lee, M.**, Choi, S., Choi, W. S., Shin, M., Jung, M., ... & Zhang, B. T. (2021). Toward a Human-Level Video Understanding Intelligence. *arXiv preprint arXiv:2110.04203*.     
     [Link](https://arxiv.org/abs/2110.04203)
     
-- **Shin, M.**, Kim, J., Choi, S., Heo, Y. J., Kim, D., Lee, M., ... & Ryu, J. K. (2021). CogME: A Novel Evaluation Metric for Video Understanding Intelligence. *arXiv preprint arXiv:2107.09847*.
-    
+- **Shin, M.**, Kim, J., Choi, S., Heo, Y. J., Kim, D., Lee, M., ... & Ryu, J. K. (2021). CogME: A Novel Evaluation Metric for Video Understanding Intelligence. *arXiv preprint arXiv:2107.09847*.       
     [Link](https://arxiv.org/abs/2107.09847)
     
 
 ### Book
 
-- 게임하는 뇌 (몽스북) 2021 집필 참여
-    
+- 게임하는 뇌 (몽스북) 2021 집필 참여       
     [Link](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9791191401066)
     
 
