@@ -30,11 +30,11 @@ I majored Biology and Cognitive Science.
 
 관심사
 - 사람. 관계, 마음, 지능
-- 호기심, 불확실성
-- 사랑, 삶, 죽음, 잘 살기, 잘 죽기
+- 호기심, 불확실성, 질문하기
+- 사랑, 삶, 죽음, 잘 살기, 잘 죽기   
 희망사항
 - 힙하게 나이들기, 스마트 에이징, 못해도 괜찮기
-- informative but warm hearted writer
+- informative but warm-hearted writer
 
 ---
 
