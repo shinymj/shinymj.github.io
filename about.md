@@ -79,10 +79,10 @@ Institute for Cognitive Science
 
 ### Journals
 
-- Park, S. W., Oh, J., **Shin, M.**, Lee, J. Y., Lee, K. M., Ryu, J. K., & Sternad, D. (2024). Changes of upper-limb kinematics during practice of a redundant motor task in patients with Parkinson’s disease. Scientific Reports, 14(1), 26958. 10.1038/s41598-024-76015-7  
+- Park, S. W., Oh, J., **Shin, M.**, Lee, J. Y., Lee, K. M., Ryu, J. K., & Sternad, D. (2024). Changes of upper-limb kinematics during practice of a redundant motor task in patients with Parkinson’s disease. *Scientific Reports*, 14(1), 26958. 10.1038/s41598-024-76015-7  
     [Link](https://doi.org/10.1038/s41598-024-76015-7)
 
-- Lee, Y. K., Park, Y., **Shin, M.**, & Hahn, S. (2024). Effect of Feedback Styles in Robotic Fitness Coaching on Exercise Intensity. 한국 HCI 학회 논문지, 19(2), 35-45, 10.17210/jhsk.2024.06.19.2.35   
+- Lee, Y. K., Park, Y., **Shin, M.**, & Hahn, S. (2024). Effect of Feedback Styles in Robotic Fitness Coaching on Exercise Intensity. *한국 HCI 학회 논문지*, 19(2), 35-45, 10.17210/jhsk.2024.06.19.2.35   
     [Link](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003095946)   
 
 - Lee, Y. K., Lee, I., **Shin, M**., Bae, S., & Hahn, S. (2024). Enhancing Empathic Reasoning of Large Language Models Based on Psychotherapy Models for AI-assisted Social Support. *Korean Journal of Cognitive Science*, *35*(1).       
