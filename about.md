@@ -96,7 +96,7 @@ Institute for Cognitive Science
     
 ### Proceedings
 
-- Park, C., Cho, M., Shin, M., Ryu, J. K., & Jang, M. (2025, March). Adaptive Robot-mediated Assessment using LLM for Enhanced Survey Quality in Older Adults Care Programs. In Proceedings of the 2025 ACM/IEEE International Conference on Human-Robot Interaction (pp. 1534-1538). Retrieved from https://dl.acm.org/doi/10.5555/3721488.3721714
+- Park, C., Cho, M., **Shin, M.**, Ryu, J. K., & Jang, M. (2025, March). Adaptive Robot-mediated Assessment using LLM for Enhanced Survey Quality in Older Adults Care Programs. In Proceedings of the 2025 ACM/IEEE International Conference on Human-Robot Interaction (pp. 1534-1538). Retrieved from https://dl.acm.org/doi/10.5555/3721488.3721714  
     [LINK](https://dl.acm.org/doi/10.5555/3721488.3721714)
 
 - **Shin, M**., Kim, D., & Ryu, J. (2024). CAUS: A Dataset for Question Generation based on Human Cognition Leveraging Large Language Models. *Proceedings of the Annual Meeting of the Cognitive Science Society*, 46. Retrieved from https://escholarship.org/uc/item/6522j4p0       
