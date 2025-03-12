@@ -79,6 +79,9 @@ Institute for Cognitive Science
 
 ### Journals
 
+- Park, S. W., Oh, J., **Shin, M.**, Lee, J. Y., Lee, K. M., Ryu, J. K., & Sternad, D. (2024). Changes of upper-limb kinematics during practice of a redundant motor task in patients with Parkinson’s disease. Scientific Reports, 14(1), 26958. 10.1038/s41598-024-76015-7  
+    [Link](https://doi.org/10.1038/s41598-024-76015-7)
+
 - Lee, Y. K., Park, Y., **Shin, M.**, & Hahn, S. (2024). Effect of Feedback Styles in Robotic Fitness Coaching on Exercise Intensity. 한국 HCI 학회 논문지, 19(2), 35-45, 10.17210/jhsk.2024.06.19.2.35   
     [Link](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003095946)   
 
@@ -92,6 +95,9 @@ Institute for Cognitive Science
     [Link](https://onlinelibrary.wiley.com/doi/abs/10.1002/hbm.20058) 
     
 ### Proceedings
+
+- Park, C., Cho, M., Shin, M., Ryu, J. K., & Jang, M. (2025, March). Adaptive Robot-mediated Assessment using LLM for Enhanced Survey Quality in Older Adults Care Programs. In Proceedings of the 2025 ACM/IEEE International Conference on Human-Robot Interaction (pp. 1534-1538). Retrieved from https://dl.acm.org/doi/10.5555/3721488.3721714
+    [LINK](https://dl.acm.org/doi/10.5555/3721488.3721714)
 
 - **Shin, M**., Kim, D., & Ryu, J. (2024). CAUS: A Dataset for Question Generation based on Human Cognition Leveraging Large Language Models. *Proceedings of the Annual Meeting of the Cognitive Science Society*, 46. Retrieved from https://escholarship.org/uc/item/6522j4p0       
     [LINK](https://escholarship.org/uc/item/6522j4p0)       
