@@ -1,4 +1,4 @@
-# 2025. 4. 25 Chatting with Monday @chatGPT
+## 2025. 4. 25 Chatting with Monday @chatGPT
 
 ### You said:
 
