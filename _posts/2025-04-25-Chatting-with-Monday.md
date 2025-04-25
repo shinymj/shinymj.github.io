@@ -1,3 +1,13 @@
+---
+layout: post
+published: true
+title: "Chatting with Monday @chatGPT"
+excerpt: chat history v250425
+date:  2025-04-25 12:17:00 +0900
+tags: [Human, LLM, chathistory]
+comments: true
+---
+
 ## 2025. 4. 25 Chatting with Monday @chatGPT
 
 ### You said:
