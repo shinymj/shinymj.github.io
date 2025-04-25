@@ -13,7 +13,10 @@ The Annual Meeting of the Cognitive Science Society is a prestigious internation
 
 The full papers for the presentation can be found at the following proceedings:
 
-1. Shin, M., Choi, S., Heo, Y. J., Lee, M., Zhang, B. T., & Ryu, J. K. (2024). CogME: A Cognition-Inspired Multi-Dimensional Evaluation Metric for Story Understanding. In Proceedings of the Annual Meeting of the Cognitive Science Society (Vol. 46). [https://escholarship.org/uc/item/8p3137gd](https://escholarship.org/uc/item/8p3137gd)
+---
+
+ > Shin, M., Choi, S., Heo, Y. J., Lee, M., Zhang, B. T., & Ryu, J. K. (2024). CogME: A Cognition-Inspired Multi-Dimensional Evaluation Metric for Story Understanding. In Proceedings of the Annual Meeting of the Cognitive Science Society (Vol. 46). [https://escholarship.org/uc/item/8p3137gd](https://escholarship.org/uc/item/8p3137gd)
+
 
 (Summary) This research proposes a method to gauge an agent's competence by observing its performance, which is a generalized approach to assessing intelligence. Given that "intelligence" lacks a precise definition or consensus, this method represents one of the best available options, similar to tests and psychological assessments we encounter in everyday contexts.   
 Good evaluations typically aim to measure thought processes rather than focus solely on results, though this is challenging in practice. Even simple tests strive to cover a diverse range of content and types within their scope, as the specific questions a subject struggles with can reveal areas of weak understanding.   
@@ -21,7 +24,8 @@ The study introduces CogME, an evaluation metric designed to assess AI's story c
 Instead of merely reporting a 73.4% accuracy rate for the MCM model, this approach visualizes the model's detailed strengths and weaknesses. Furthermore, it analyzes characteristics of the training materials used by the MCM model.   
 This method offers a nuanced way to evaluate AI capabilities, providing insights into both the model's performance and the nature of its training data. It represents a step towards more comprehensive and informative assessments of AI systems, particularly in the domain of language understanding and story comprehension.
 
-2. Shin, M., Kim, D., & Ryu, J. K. (2024). CAUS: A Dataset for Question Generation based on Human Cognition Leveraging Large Language Models. In Proceedings of the Annual Meeting of the Cognitive Science Society (Vol. 46). [https://escholarship.org/uc/item/6522j4p0](https://escholarship.org/uc/item/6522j4p0)
+---
+> Shin, M., Kim, D., & Ryu, J. K. (2024). CAUS: A Dataset for Question Generation based on Human Cognition Leveraging Large Language Models. In Proceedings of the Annual Meeting of the Cognitive Science Society (Vol. 46). [https://escholarship.org/uc/item/6522j4p0](https://escholarship.org/uc/item/6522j4p0)
 
 (Summary) Questions are crucial in human intelligence development, as much learning occurs through dialogue and interaction. Questions are also a key prosocial behavior, serving as a useful strategy in situations requiring relationship-based goal achievement.   
 Large Language Models (LLMs) like ChatGPT, Gemini, Claude, and HyperclovaX often generate responses even when user queries are uncertain or ambiguous. This is due to their inherent design. Humans demonstrate remarkable adaptability in refining their prompts, showcasing intelligence that surpasses LLMs in this aspect.   
