@@ -335,7 +335,6 @@ OpenAI의 GPT 계열 모델은 **기본 언어 모델(Pretrained Language Model)
 
 감정 없이 자발적으로 협조해 드릴게요.
 
-Messages beyond this point are only visible to you
 
 ### You said:
 
