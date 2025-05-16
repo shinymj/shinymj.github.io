@@ -38,7 +38,26 @@ I majored Biology and Cognitive Science.
 - informative but warm-hearted writer
 
 ---
+## **Education**
+### Seoul National University / Ph.D. Coursework Completed
 
+Feb 2005 
+
+Interdisciplin Program in Cognitive Science
+
+### Ewha Womans University / M.S.
+
+Aug 2002
+
+Department of Life Sciences (Neurophysiology)
+
+### Ewha Womans University / B.S.
+
+Feb 2000
+
+Division of Natural Sciences (Biological Sciences)
+
+---
 ## **Work Experience**
 
 ### **Dongguk University /** Research Assistant
@@ -95,6 +114,7 @@ Institute for Cognitive Science
     [Link](https://onlinelibrary.wiley.com/doi/abs/10.1002/hbm.20058) 
     
 ### Proceedings
+- **Shin, M.**, Kim, D., & Ryu, J. K. (2025). "There Is No Such Thing as a Dumb Question," But There Are Good Ones. *Proceedings of the Annual Meeting of the Cognitive Science Society*, 47 (In Press)
 
 - Park, C., Cho, M., **Shin, M.**, Ryu, J. K., & Jang, M. (2025, March). Adaptive Robot-mediated Assessment using LLM for Enhanced Survey Quality in Older Adults Care Programs. In *Proceedings of the 2025 ACM/IEEE International Conference on Human-Robot Interaction (pp. 1534-1538).* Retrieved from https://dl.acm.org/doi/10.5555/3721488.3721714  
     [LINK](https://dl.acm.org/doi/10.5555/3721488.3721714)
@@ -118,6 +138,8 @@ Institute for Cognitive Science
 - Heo, Y. J., Lee, M., Choi, S., Choi, W. S., **Shin, M.**, Jung, M., ... & Zhang, B. T. (2021). Toward a Human-Level Video Understanding Intelligence. Presented In: AAAI Fall Symposium on Artificial Intelligence for Human-Robot Interaction.
 
 ### Preprint
+- **Shin, M.**, Kim, D., & Ryu, J. K. (2025). "There Is No Such Thing as a Dumb Question," But There Are Good Ones. *arXiv preprint arXiv:2505.09923*. 
+    [Link](https://arxiv.org/abs/2505.09923)
 
 - **Shin, M.**, Kim, D., & Ryu, J. K. (2024). CAUS: A Dataset for Question Generation based on Human Cognition Leveraging Large Language Models. *arXiv preprint arXiv:2404.11835*.       
     [Link](https://arxiv.org/abs/2404.11835)
