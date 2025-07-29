@@ -14,14 +14,14 @@ comments: true
 논문의 전문은 아래 링크에서 확인하실 수 있습니다. 
 
 ---
- > Shin, M., Kim, D., & Ryu, J. K. (2025). "There Is No Such Thing as a Dumb Question," But There Are Good Ones. In Proceedings of the Annual Meeting of the Cognitive Science Society (Vol. 46). Retrieved from [https://escholarship.org/uc/item/06z883w5](https://escholarship.org/uc/item/06z883w5)
-
-이번 논문은 ”세상에 멍청한 질문은 없다“고 단언한 칼 세이건의 인용구로 시작합니다.
+ > Shin, M., Kim, D., & Ryu, J. K. (2025). "There Is No Such Thing as a Dumb Question," But There Are Good Ones. In *Proceedings of the Annual Meeting of the Cognitive Science Society (Vol. 46)*. Retrieved from [https://escholarship.org/uc/item/06z883w5](https://escholarship.org/uc/item/06z883w5)
+---
+이번 논문은 "세상에 멍청한 질문은 없다"고 단언한 칼 세이건의 인용구로 시작합니다.
 좋은 질문을 정의하고 (인공지능용) 평가 기준을 만들겠다고 덤빈 약 3.5년의 고뇌를 함축하는 말이어서 제가 참 좋아합니다.
 
 질문이 평가의 대상이 될 수 있을까요? 글쎄요. 그럴수도 있고 아닐수도 있습니다.
 질문에는 맞고 틀림이 없습니다. 참/거짓 값을 담고 있는 명제와 달리, 질문은 '정보를 구하는 행동' 그 자체이기 때문입니다. 질문 그 자체로는 틀릴 수도, 완전히 멍청할 수도 없습니다.
-(단, 예의바른 요청을 위한 의문문, 혹은 상대방에 대한 공격 의도가 충만한데 형태만 의문문인 경우(feat.ㅇㅈㅅ) 등은 질문으로 간주하지 않습니다.)
+(단, 예의바른 요청을 위한 의문문, 혹은 상대방에 대한 공격 의도가 충만한데 형태만 의문문인 경우 등은 질문으로 간주하지 않습니다.)
 
 그러나 우리는 질문을 잘 하는게 중요하다고 합니다. 인공지능 시대에 더 중요한 인간의 자질이라고도 하고요. 네, 잘 된 질문은 분명히 존재합니다.
 
