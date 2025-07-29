@@ -56,7 +56,7 @@ Feb 2000. Division of Natural Sciences (Biological Sciences)
 
 ### **Dongguk University /** Research Assistant
 
-Fed, 2020 - current, Seoul, Korea
+Feb 2020 - current, Seoul, Korea
 
 Laboratory for Natural & Artificial Kinästhese
 
