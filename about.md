@@ -39,9 +39,9 @@ I majored Biology and Cognitive Science.
 
 ---
 ## **Education**
-### Seoul National University / Ph.D. Coursework Completed
+### Seoul National University / Ph.D.
 
-Feb 2005 
+Aug 2025 
 
 Interdisciplin Program in Cognitive Science
 
@@ -114,7 +114,8 @@ Institute for Cognitive Science
     [Link](https://onlinelibrary.wiley.com/doi/abs/10.1002/hbm.20058) 
     
 ### Proceedings
-- **Shin, M.**, Kim, D., & Ryu, J. K. (2025). "There Is No Such Thing as a Dumb Question," But There Are Good Ones. *Proceedings of the Annual Meeting of the Cognitive Science Society*, 47 (In Press)
+- **Shin, M.**, Kim, D., & Ryu, J. K. (2025). "There Is No Such Thing as a Dumb Question," But There Are Good Ones. *Proceedings of the Annual Meeting of the Cognitive Science Society*, 47 Retrieved from https://escholarship.org/uc/item/06z883w5      
+    [LINK](https://escholarship.org/uc/item/06z883w5)   
 
 - Park, C., Cho, M., **Shin, M.**, Ryu, J. K., & Jang, M. (2025, March). Adaptive Robot-mediated Assessment using LLM for Enhanced Survey Quality in Older Adults Care Programs. In *Proceedings of the 2025 ACM/IEEE International Conference on Human-Robot Interaction (pp. 1534-1538).* Retrieved from https://dl.acm.org/doi/10.5555/3721488.3721714  
     [LINK](https://dl.acm.org/doi/10.5555/3721488.3721714)
