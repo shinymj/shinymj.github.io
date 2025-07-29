@@ -16,6 +16,7 @@ comments: true
 ---
  > Shin, M., Kim, D., & Ryu, J. K. (2025). "There Is No Such Thing as a Dumb Question," But There Are Good Ones. In *Proceedings of the Annual Meeting of the Cognitive Science Society (Vol. 46)*. Retrieved from [https://escholarship.org/uc/item/06z883w5](https://escholarship.org/uc/item/06z883w5)
 ---
+
 이번 논문은 "세상에 멍청한 질문은 없다"고 단언한 칼 세이건의 인용구로 시작합니다.
 좋은 질문을 정의하고 (인공지능용) 평가 기준을 만들겠다고 덤빈 약 3.5년의 고뇌를 함축하는 말이어서 제가 참 좋아합니다.
 
