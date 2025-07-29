@@ -5,7 +5,7 @@ permalink: /about/
 ---
 # Minjung Shin
 
-**Ph.D. Candidate & Research Assistant**
+**Ph.D. Researcher**
 
 Interdisciplinary Program in Cognitive Science  
 Seoul National University  
