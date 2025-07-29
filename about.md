@@ -41,21 +41,15 @@ I majored Biology and Cognitive Science.
 ## **Education**
 ### Seoul National University / Ph.D.
 
-Aug 2025 
-
-Interdisciplin Program in Cognitive Science
+Aug. 2025, Interdisciplin Program in Cognitive Science
 
 ### Ewha Womans University / M.S.
 
-Aug 2002
-
-Department of Life Sciences (Neurophysiology)
+Aug. 2002, Department of Life Sciences (Neurophysiology)
 
 ### Ewha Womans University / B.S.
 
-Feb 2000
-
-Division of Natural Sciences (Biological Sciences)
+Feb. 2000, Division of Natural Sciences (Biological Sciences)
 
 ---
 ## **Work Experience**
