@@ -5,9 +5,9 @@ permalink: /about/
 ---
 # Minjung Shin
 
-**Ph.D. Researcher**
+**Ph.D. in Sceince**
 
-Interdisciplinary Program in Cognitive Science  
+Dental Research Institute | Bigdata Convergence Open Sharing System 
 Seoul National University  
 Seoul, Korea 08826
 
@@ -30,7 +30,7 @@ I majored Biology and Cognitive Science.
 
 관심사
 - 사람. 관계, 마음, 지능
-- 호기심, 불확실성, 질문하기
+- 호기심, 불확실성, 질문하기, 잘 배우기
 - 사랑, 삶, 죽음, 잘 살기, 잘 죽기   
 
 희망사항
@@ -43,6 +43,7 @@ I majored Biology and Cognitive Science.
 
 Aug 2025. Interdisciplinary Program in Cognitive Science
 
+
 ### Ewha Womans University / M.S.
 
 Aug 2002. Department of Life Sciences (Neurophysiology)
@@ -54,9 +55,15 @@ Feb 2000. Division of Natural Sciences (Biological Sciences)
 ---
 ## **Work Experience**
 
+### **Seoul National University /** Post Doctoral Researcher
+
+Oct 2025 - Current, Seoul, Korea
+
+Dental Research Institute | Bigdata Convergence Open Sharing System 
+
 ### **Dongguk University /** Research Assistant
 
-Feb 2020 - current, Seoul, Korea
+Feb 2020 - Sep 2025, Seoul, Korea
 
 Laboratory for Natural & Artificial Kinästhese
 
@@ -87,6 +94,8 @@ Mar 2007 - Feb 2008, Seoul, Korea
 Institute for Cognitive Science
 
 ---
+
+
 
 ## Publications
 
@@ -154,6 +163,11 @@ Institute for Cognitive Science
 - 게임하는 뇌 (몽스북) 2021 집필 참여       
     [Link](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9791191401066)
     
+### Thesis
+
+- **신민정.** (2025).인간 질문 메커니즘 기반 인공지능 프레임워크: 생성, 분석, 평가를 중심으로. 서울대학교 대학원.
+AI Framework Inspired by Human Questioning: Generation, Analysis, and Evaluation. 
+    [Link](https://dcollection.snu.ac.kr/public_resource/pdf/000000191147_20251219055620.pdf)
 
 ---
 
